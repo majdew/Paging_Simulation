@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(246): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(345): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(367): warning C4018: '<': signed/unsigned mismatch
+c:\users\majd1\source\repos\paging_simulation_project_part2\paging_simulation_project_part2\source.cpp(384): warning C4018: '<': signed/unsigned mismatch
+  paging_simulation_project_part2.vcxproj -> C:\Users\majd1\source\repos\paging_simulation_project_part2\Debug\paging_simulation_project_part2.exe
